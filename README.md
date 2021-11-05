@@ -8,8 +8,8 @@
 ## Table of Contents
 
 + [Description](#Description)
-+ [Viewer requirements:](#Viewer requirements)
-+ [Technology In Use](#technology in use)
++ [Viewer requirements:](#Viewer-requirements)
++ [Technology In Use](#technology-in-use)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Author Bio](#author-bio)
@@ -28,7 +28,7 @@
 Click on the link bellow to view the street food site.
 https://samuel-muriuki.github.io/strt-fd/
 ****
-[Go Back to the top](#Street Food Website)
+[Go Back to the top](#street-food-website)
 ## Technology In Use
 
 * CSS - used for styling the pages.
@@ -39,7 +39,7 @@ https://samuel-muriuki.github.io/strt-fd/
 * CSS
 * HTML
 
-[Go Back to the top](#Street Food Website)
+[Go Back to the top](#street-food-website)
 
 ## Licence
 
@@ -65,10 +65,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#Street Food Website)
+[Go Back to the top](#street-food-website)
 
 ## Author Bio
 
 Slack Profile - [Samuel-Muriuki](https://app.slack.com/)
 
-[Go Back to the top](#Street Food Website)
+[Go Back to the top](#street food website)
