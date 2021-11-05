@@ -71,4 +71,4 @@ SOFTWARE.
 
 Slack Profile - [Samuel-Muriuki](https://app.slack.com/)
 
-[Go Back to the top](#street food website)
+[Go Back to the top](#street-food-website)
