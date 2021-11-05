@@ -8,7 +8,7 @@
 ## Table of Contents
 
 + [Description](#Description)
-+ [Viewer requirements](#Viewer requirements)
++ [Viewer requirements:](#Viewer requirements)
 + [Technology In Use](#technology in use)
 + [Reference](#reference)
 + [Licence](#licence)
@@ -29,7 +29,7 @@ Click on the link bellow to view the street food site.
 https://samuel-muriuki.github.io/strt-fd/
 ****
 [Go Back to the top](#Street Food Website)
-## Technology Used
+## Technology In Use
 
 * CSS - used for styling the pages.
 
